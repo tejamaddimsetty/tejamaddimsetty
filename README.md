@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="tejamaddimsetty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tejamaddimsetty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tejamaddimsetty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
 
@@ -36,9 +36,6 @@
 <br />
 <br />
 
----
-
-
 
 ---
 
@@ -55,10 +52,7 @@
 
 <img align="left" alt="tejamaddimsetty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejamaddimsetty&show_icons=true&hide_border=true" />
 
-[website]: 
+
 [instagram]: https://instagram.com/maddimsettyteja
 [linkedin]: https://linkedin.com/in/tejmaddimsetty
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]:
+
