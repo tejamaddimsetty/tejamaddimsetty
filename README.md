@@ -1,6 +1,6 @@
 ### Oh Hii, I'm Tej Maddimsetty - aka [Sanjai Wonka] 👋
 
-## I'm a Single, Crazy, Developer, and CEO!
+## I'm a Crazy Developer
 - 🔭 I’m currently working on a [Dream Project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for developers who wanted to build crazy things with me.
