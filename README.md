@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Dream Project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for developers who wanted to build crazy things with me.
-- 🥅 2020 Goals: Just building platform that can fill juice of young developers to build their dreams.
+- 🥅 2021 Goals: Just building platform that can fill juice of young developers to build their dreams.
 - ⚡ Fun fact: I am bad at Academics.
 
 ### Connect with me:
