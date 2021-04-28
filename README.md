@@ -1,4 +1,4 @@
-### Oh Hii, I'm Tej Maddimsetty - aka [Sanjai Wonka] 👋
+### Oh Hii, I'm Tej Maddimsetty - aka [Sanjay Wonka] 👋
 
 ## I'm a Crazy Developer
 - 🔭 I’m currently working on a [Dream Project]!
