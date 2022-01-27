@@ -8,13 +8,12 @@
 - ⚡⚡2022 Goals: Just going with the flow. Not yet planed sure you will find out 🤣
 - ⚡ Fun fact: I am bad at Academics.
 
-[Portfolio]: https://tej-portfolio-site.netlify.app/about-me
 
 ### Connect with me:
 
 [<img align="left" alt="tejamaddimsetty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tejamaddimsetty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="tejamaddimsetty | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
 <br />
 
 ### Languages and Tools:
@@ -54,4 +53,6 @@
 
 [instagram]: https://instagram.com/maddimsettyteja
 [linkedin]: https://linkedin.com/in/tej
+[slack]: https://tej-portfolio-site.netlify.app/about-me
+
 
