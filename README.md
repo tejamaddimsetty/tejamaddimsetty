@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on a [Dream Project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for developers who wanted to build crazy things with me.
-- 🥅 2021 Goals: Just building platform that can fill juice of young developers to build their dreams.
+- 🥅 2021 Goals: Just building platform that can fill juice of young developers to build their dreams. #Completed
+- ⚡⚡2022 Goals: Just going with the flow. Not yet planed sure you will find out 🤣
 - ⚡ Fun fact: I am bad at Academics.
 
 ### Connect with me:
@@ -50,5 +51,5 @@
 
 
 [instagram]: https://instagram.com/maddimsettyteja
-[linkedin]: https://linkedin.com/in/tejmaddimsetty
+[linkedin]: https://linkedin.com/in/tej
 
